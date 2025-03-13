@@ -2,7 +2,7 @@
 
 1. Count the number of Movies vs TV Shows
 2. Find the most common rating for movies and TV shows
-3. List all movies released in a specific year (e.g., 2020)
+3. List all movies released in a specific year (e.g., 2021 and 2022)
 4. Find the top 5 countries with the most content on Netflix
 5. Identify the longest movie
 6. Find content added in the last 5 years
